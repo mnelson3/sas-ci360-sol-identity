@@ -36,4 +36,4 @@ Please do not report security vulnerabilities via a public GitHub issue. See [SE
 ### Commercial Support
 
 For commercial licensing and enterprise support, contact:
-- Email: info@nelsongrey.com
+- Email: support@nelsongrey.com

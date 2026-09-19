@@ -2,6 +2,8 @@
 
 ## SAS 360 SOLUTIONS - Identity Module
 
+> **Status: canonical.** This is the actively maintained client for the SCIM API.
+
 This repository provides Python interfaces for SAS Customer Intelligence 360 Identity Management using SCIM APIs.
 
 > This is an independent, third-party project maintained by Nelson Grey LLC. It is not affiliated with, endorsed by, or sponsored by SAS Institute Inc. "SAS" and "SAS Customer Intelligence 360" are trademarks of SAS Institute Inc.

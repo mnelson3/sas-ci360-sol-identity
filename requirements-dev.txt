@@ -6,7 +6,7 @@
 # instead of installing it. See requirements.txt for the full production set.
 requests>=2.31.0
 urllib3>=2.0.0
-pytest>=7.4.0
+pytest>=9.1.1
 pytest-cov>=4.1.0
 flake8>=6.1.0
 mypy>=1.5.0

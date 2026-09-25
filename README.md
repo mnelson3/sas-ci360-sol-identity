@@ -2,7 +2,7 @@
 
 ## SAS 360 SOLUTIONS - Identity Module
 
-> **Status: canonical.** This is the actively maintained client for the SCIM API.
+> **Status: archived.** This repository is a retained historical/archived reference client for the SCIM API and is no longer actively developed.
 
 This repository provides Python interfaces for SAS Customer Intelligence 360 Identity Management using SCIM APIs.
 
@@ -31,8 +31,8 @@ The Identity module enables programmatic management of users, groups, and identi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mnelson3/sas-ci360-sol-identity.git
-   cd sas-ci360-sol-identity
+   git clone https://github.com/mnelson3/sas-ci360-sol-identity-archived.git
+   cd sas-ci360-sol-identity-archived
    ```
 
 2. Install dependencies (requires access to the private package index above):
